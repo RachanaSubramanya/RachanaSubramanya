@@ -2,7 +2,11 @@
 
 **Aspiring Data Analyst | Fresh Graduate | ML Enthusiast**
 
-An aspiring **Business Analyst** and fresh graduate passionate about bridging the gap between business strategy, data science, and predictive modeling. I specialize in turning raw data into strategic insights using advanced analytics, machine learning, and interactive dashboards to drive data-backed decision-making.
+# Hi there, I'm Rachana Subramanya 👋
+
+An aspiring **Business Analyst** and fresh graduate focused on bridging theory and practice by building my skills in advanced analytics, machine learning, and interactive dashboards. As a fresher, I love diving into raw data, experimenting with predictive models, and learning how to shape impactful visual solutions that support data-backed decision-making.
+
+🌱 **Future Outlook:** Beyond my core analytics toolkit, I am actively expanding my knowledge by diving deeper into advanced Machine Learning and Deep Learning architectures.
 
 ---
 
