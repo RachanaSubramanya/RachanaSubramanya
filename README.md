@@ -29,6 +29,6 @@ An aspiring **Business Analyst** and fresh graduate passionate about bridging th
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RachanaSubramanya" alt="GitHub Stats" width="48%" bg_color=143134 title_color=20B2AA icon_color=00FFCC text_color=E0F2F1 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/username=RachanaSubramanya" alt="Top Languages" width="48%" bg_color=143134 title_color=20B2AA icon_color=00FFCC text_color=E0F2F1 />
+  <img src="https://github-readme-stats.vercel.app/api?username=RachanaSubramanya" alt="GitHub Stats" width="48%" bg_color="143134" title_color="20B2AA" icon_color="00FFCC" text_color="E0F2F1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachanaSubramanya" alt="Top Languages" width="48%" bg_color="143134" title_color="20B2AA" icon_color="00FFCC" text_color="E0F2F1" />
 </p>
