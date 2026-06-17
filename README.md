@@ -8,21 +8,21 @@ An aspiring **Business Analyst** and fresh graduate passionate about bridging th
 
 ### 🌐 Connect with Me
 Email: rachanasubramanya50@gmail.com
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/rachana-subramanya-4ab0b3303/)
+[LinkedIn](https://www.linkedin.com/in/rachana-subramanya-4ab0b3303/)
 
 ---
 
 ### Tech Stack & Domain Competencies
 
 🎯 **Business Analysis & Visual Analytics**
-![Power BI](https://shields.io)
-![Tableau](https://shields.io)
+- Power BI
+- Tableau
 
 🧠 **Data Science & Predictive Modeling**
-![Python](https://shields.io)
-![R](https://shields.io)
+- Python
+- R
 
 🗄️ **Data Extraction & Structuring**
-![SQL](https://shields.io)
+- SQL
 
 ---
