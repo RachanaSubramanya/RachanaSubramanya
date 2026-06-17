@@ -2,21 +2,19 @@
 
 **Aspiring Data Analyst | Fresh Graduate | ML Enthusiast**
 
-# Hi there, I'm Rachana Subramanya 👋
-
 An aspiring **Business Analyst** and fresh graduate focused on bridging theory and practice by building my skills in advanced analytics, machine learning, and interactive dashboards. As a fresher, I love diving into raw data, experimenting with predictive models, and learning how to shape impactful visual solutions that support data-backed decision-making.
 
-🌱 **Future Outlook:** Beyond my core analytics toolkit, I am actively expanding my knowledge by diving deeper into advanced Machine Learning and Deep Learning architectures.
+**Future Outlook:** Beyond my core analytics toolkit, I am actively expanding my knowledge by diving deeper into advanced Machine Learning and Deep Learning architectures.
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 - Email: rachanasubramanya50@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/rachana-subramanya-4ab0b3303/)
 
 ---
 
-### Tech Stack & Domain Competencies
+### Tech Stack
 
  **Business Analysis & Visual Analytics**
 - Power BI
