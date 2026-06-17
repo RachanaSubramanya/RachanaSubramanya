@@ -7,8 +7,8 @@ An aspiring **Business Analyst** and fresh graduate passionate about bridging th
 ---
 
 ### 🌐 Connect with Me
-Email: rachanasubramanya50@gmail.com
-[LinkedIn](https://www.linkedin.com/in/rachana-subramanya-4ab0b3303/)
+- Email: rachanasubramanya50@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/rachana-subramanya-4ab0b3303/)
 
 ---
 
