@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there, I'm Rachana!
 
-<!--
-**RachanaSubramanya/RachanaSubramanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst | Fresh Graduate | ML Enthusiast**
 
-Here are some ideas to get you started:
+An aspiring **Business Analyst** and fresh graduate passionate about bridging the gap between business strategy, data science, and predictive modeling. I specialize in turning raw data into strategic insights using advanced analytics, machine learning, and interactive dashboards to drive data-backed decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with Me
+Email: rachanasubramanya50@gmail.com
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/rachana-subramanya-4ab0b3303/)
+
+---
+
+### Tech Stack & Domain Competencies
+
+🎯 **Business Analysis & Visual Analytics**
+![Power BI](https://shields.io)
+![Tableau](https://shields.io)
+
+🧠 **Data Science & Predictive Modeling**
+![Python](https://shields.io)
+![R](https://shields.io)
+
+🗄️ **Data Extraction & Structuring**
+![SQL](https://shields.io)
+
+---
