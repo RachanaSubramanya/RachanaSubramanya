@@ -14,15 +14,19 @@ An aspiring **Business Analyst** and fresh graduate passionate about bridging th
 
 ### Tech Stack & Domain Competencies
 
-🎯 **Business Analysis & Visual Analytics**
+ **Business Analysis & Visual Analytics**
 - Power BI
 - Tableau
 
-🧠 **Data Science & Predictive Modeling**
+ **Data Science & Predictive Modeling**
 - Python
 - R
 
-🗄️ **Data Extraction & Structuring**
+ **Data Extraction & Structuring**
 - SQL
 
 ---
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
