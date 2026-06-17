@@ -29,8 +29,8 @@ An aspiring **Business Analyst** and fresh graduate passionate about bridging th
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RachanaSubramanya" alt="GitHub Stats" width="48%" bg_color="143134" title_color="20B2AA" icon_color="00FFCC" text_color="E0F2F1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RachanaSubramanya&show_icons=true&hide_border=true&bg_color=143134&title_color=20B2AA&icon_color=00FFCC&text_color=E0F2F1" alt="GitHub Stats" width="48%" />
 <p align="center">
-  <img src="https://githubusercontent.com/RachanaSubramanya/RachanaSubramanya/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-
+  <img src="https://raw.githubusercontent.com/RachanaSubramanya/RachanaSubramanya/output/github-contribution-grid-snake.svg&bg_color=143134&title_color=20B2AA&icon_color=00FFCC&text_color=E0F2F1" alt="Contribution Snake" width="100%" />
 </p>
+
