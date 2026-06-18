@@ -35,7 +35,6 @@ An aspiring **Business Analyst** and fresh graduate focused on bridging theory a
 <p align="center">
   <img src="https://raw.githubusercontent.com/RachanaSubramanya/RachanaSubramanya/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 <p align="center">
-  <sub><i>Legend: Left = No commits ➔ Right = Peak analytical productivity days.</i></sub>
-</p>
+  <sub><i>Legend: Green = Peak analytical productivity days, Black = Inactivity.</i></sub>
 </p>
 
