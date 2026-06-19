@@ -8,8 +8,8 @@
 <!-- introduction -->
 <div align="center">
   <h2 style="font-family: monospace; color: #676566;"> Hi there, I'm Rachana!</h2>
-  <p style="font-family: monospace; color: #995d73; font-size: 15px; line-height: 1.6;">
-    <b>** Aspiring Data Analyst | Fresh Graduate | ML Enthusiast **</b><br/>
+  <p style="font-family: monospace; color: #995d73; font-size: 20px; line-height: 1.6;">
+    <b> Aspiring Data Analyst | Fresh Graduate | ML Enthusiast </b><br/>
     Optimizing SQL Pipelines<br/>
     Creating efficient ML models<br/>
     Building interactive, high-impact BI Dashboards
