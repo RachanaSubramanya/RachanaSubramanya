@@ -1,6 +1,6 @@
 <!-- full width banner -->
 <div align="center">
-  <img src="ezgif.com-crop.gif" width="100%" alt="Cozy Workspace Analytics Banner" style="border-radius: 6px;" />
+  <img src="ezgif.com-crop.gif" width="100%" height="70%" alt="Cozy Workspace Analytics Banner" style="border-radius: 6px;" />
 </div>
 
 <br/>
