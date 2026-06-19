@@ -3,7 +3,7 @@
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        </td><img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="90%" height="400" style="display: block; object-fit: cover;" alt="Cozy Workspace Banner"  />
+        </td><img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" height="220" style="display: block; object-fit: cover; object-position: center 35%;" alt="Cozy Workspace Banner"  />
       </td>
     </tr>
   </table>
