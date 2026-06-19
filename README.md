@@ -1,6 +1,6 @@
 <!-- full width banner -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" alt="Cozy Workspace Banner" style="border-radius: 6px; max-height: 200px; overflow: hidden; object-fit: cover;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" alt="Cozy Workspace Banner" style="border-radius: 6px; max-height: 200px; overflow: hidden; style="object-fit: cover; object-position: center 30%" />
 </div>
 
 <br/>
