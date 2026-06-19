@@ -1,13 +1,13 @@
 <!-- full width banner -->
 <div align="center">
-  <img src="ezgif.com-crop.gif" width="100%" height="70%" alt="Cozy Workspace Analytics Banner" style="border-radius: 6px;" />
+  <img src="ezgif.com-crop.gif" width="100%" height="85%" alt="Cozy Workspace Analytics Banner" style="border-radius: 6px;" />
 </div>
 
 <br/>
 
 <!-- introduction -->
 <div align="center">
-  <h3 style="font-family: monospace; color: #676566;"> Hi there, I'm Rachana!</h3>
+  <h2 style="font-family: monospace; color: #676566;"> Hi there, I'm Rachana!</h2>
   <p style="font-family: monospace; color: #995d73; font-size: 15px; line-height: 1.6;">
     <b>** Aspiring Data Analyst | Fresh Graduate | ML Enthusiast **</b><br/>
     Optimizing SQL Pipelines<br/>
