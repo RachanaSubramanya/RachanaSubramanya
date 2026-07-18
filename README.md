@@ -34,7 +34,7 @@
 <div align="left">
   <p style="font-family: monospace; font-size: 14px; line-height: 1.8;">
     <font color="#d4826b"><b>› Python</b></font> — Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib<br/>
-    <font color="#c27670"><b>› SQL</b></font> — Database Joins<br/>
+    <font color="#c27670"><b>› SQL</b></font> — Database Joins, CTEs, Window Functions, Sub-Queries<br/>
     <font color="#ad6972"><b>› R Language</b></font> — Statistical Analysis, Data Modeling, ggplot2, dplyr<br/>
     <font color="#995d73"><b>› Power BI</b></font> — DAX Modeling, Interactive Dashboards, Power Query<br/>
     <font color="#855272"><b>› Tableau</b></font> — Visual Analytics, Custom Reporting, Storyboards<br/>
