@@ -21,7 +21,7 @@
 <!-- ROW 3: CORE ANALYTICS STATS & COMMIT LIFECYCLES -->
 <div align="center">
   <!-- Commits Made Statistics Card -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=RachanaSubramanya&hide=issues,contribs&hide_rank=true&icon_color=8c7b83&title_color=cbbfbe&text_color=bea6a1&bg_color=4a4354&hide_border=false&font_family=Fira+Code" alt="Commits Stats" width="60%">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=RachanaSubramanya&hide=issues,contribs,stars,prs&hide_rank=truicon_color=8c7b83&title_color=cbbfbe&text_color=bea6a1&bg_color=4a4354&hide_border=false&font_family=Fira+Code" alt="Commits Stats" width="60%">
 </div>
 
 <br/>
